@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Volumes/Data/developement/hrmsStudio/ChaiOneDemo/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="7d2525cba8ed61fff102977caed964fc22061e34">
+        <dex dex="/Volumes/Data/developement/hrmsStudio/ChaiOneDemo/app/build/intermediates/pre-dexed/debug/classes-bcd8b46196f3451fe54773545a60ea5158e1c6b8.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/developement/hrmsStudio/ChaiOneDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="686344a780033e4ba22b926cd225f8d4941247e6">
+        <dex dex="/Volumes/Data/developement/hrmsStudio/ChaiOneDemo/app/build/intermediates/pre-dexed/debug/classes-2967946b5d594cbb0d31461bcecca37c48043c51.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/developement/hrmsStudio/ChaiOneDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.0/libs/internal_impl-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1609e6d42d0480b0f4188e2c29f75388fa12a8f0">
+        <dex dex="/Volumes/Data/developement/hrmsStudio/ChaiOneDemo/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.0-183347724ee5e9920e43dc04ba2c49ac0a893807.jar" />
+    </item>
+    <item
+        jar="/Volumes/Data/developement/hrmsStudio/ChaiOneDemo/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/21.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="efeda77c808750cb670ee9c48d8a1835d89dbcb2">
+        <dex dex="/Volumes/Data/developement/hrmsStudio/ChaiOneDemo/app/build/intermediates/pre-dexed/debug/classes-8910546526d10e43421ac3f9ad6cf1f0c6cce06c.jar" />
+    </item>
+    <item
+        jar="/Users/synerzip/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.10/8d62b91f5ccb6f7f872313191c016c03bb61a792/library-1.0.10.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="8d62b91f5ccb6f7f872313191c016c03bb61a792">
+        <dex dex="/Volumes/Data/developement/hrmsStudio/ChaiOneDemo/app/build/intermediates/pre-dexed/debug/library-1.0.10-836a8ea31f0dde24207a217ab5107adb2aa0e798.jar" />
+    </item>
+    <item
+        jar="/Users/synerzip/Documents/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.0/support-annotations-21.0.0.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="1a578b9607b36266c63d43a4fa0ab5664dbe911e">
+        <dex dex="/Volumes/Data/developement/hrmsStudio/ChaiOneDemo/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.0-f960a7e7433fe96796840d1e958267c14dadf994.jar" />
+    </item>
+    <item
+        jar="/Users/synerzip/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Volumes/Data/developement/hrmsStudio/ChaiOneDemo/app/build/intermediates/pre-dexed/debug/gson-2.3.1-0e8ee51462db3a48ea75da166bdf6f1b082ac779.jar" />
+    </item>
+
+</items>

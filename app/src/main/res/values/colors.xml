@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="refresh_progress_1">@android:color/holo_blue_bright</color>
+    <color name="refresh_progress_2">@android:color/holo_blue_dark</color>
+    <color name="refresh_progress_3">@android:color/holo_blue_light</color>
+    <color name="apptheme_primary">@android:color/holo_blue_dark</color>
+    <color name="apptheme_primary_dark">@android:color/holo_blue_dark</color>
+    <color name="apptheme_accent">@android:color/white</color>
+
+    <color name="gradient_start">#50000000</color>
+    <color name="gradient_light_start">#30000000</color>
+</resources>
